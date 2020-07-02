@@ -144,6 +144,7 @@ tv_channel_down:
 - **HU8500**
 - **HU8550**
 - **J6350**
+- **JS9000**
 
 # Not Working Models
 
